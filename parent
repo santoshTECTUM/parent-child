@@ -1,0 +1,12 @@
+import react from "react";
+import Child from './videoUpload'
+
+const Parent = () => {
+    return (
+        <Child name="ajay"><p>p to c</p> </Child>
+    )
+}
+
+export default Parent;
+
+
