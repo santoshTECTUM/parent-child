@@ -1,5 +1,5 @@
 import react from "react";
-import Child from './videoUpload'
+import Child from './Child'
 
 const Parent = () => {
     return (
